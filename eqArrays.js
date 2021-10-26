@@ -14,9 +14,6 @@ const eqArrays = function (array, array2) {
   }
 
   for (let i = 0; i < array.length; i++) {
-    // console.log("i:", i)
-    // console.log("array[i]:", array[i])
-    // console.log("array2[i]:", array2[i])
     if (array[i] !== array2[i]) {
       return false;
     }

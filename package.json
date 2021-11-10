@@ -1,5 +1,5 @@
 {
-  "name": "lotide",
+  "name": "@shaunrobinson/lotide",
   "version": "1.0.0",
   "description": "A library of functions that you can use for your projects",
   "main": "assertArraysEqual.js",

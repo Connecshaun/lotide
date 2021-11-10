@@ -1,0 +1,26 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "A library of functions that you can use for your projects",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Connecshaun/lotide.git"
+  },
+  "author": "Shaun Robinson <connecshaun@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Connecshaun/lotide/issues"
+  },
+  "homepage": "https://github.com/Connecshaun/lotide#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
